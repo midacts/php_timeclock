@@ -1,7 +1,8 @@
 <?php
 // Initial insert of all employees into the employees table of the timeclock database
 // Author: John Patrick McCarthy
-// Date: 8th January, 2014
+// <http://www.midactstech.blogspot.com> <https://www.github.com/Midacts>
+// Date: 8th of January, 2014
 // Version 1.0
 //
 // To God only wise, be glory through Jesus Christ forever. Amen.
