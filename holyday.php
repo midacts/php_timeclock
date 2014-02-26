@@ -1,7 +1,7 @@
 <?php
 // Insert Holidays into the info table of the timeclock database
 // Author: John Patrick McCarthy
-// Date: 8th January, 2014
+// Date: 8th of January, 2014
 // Version 1.0
 //
 // To God only wise, be glory through Jesus Christ forever. Amen.
